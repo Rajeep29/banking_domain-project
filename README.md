@@ -1,8 +1,3 @@
-This is my project give readme for GitHub new
-ChatGPT said:
-Here’s a clean, professional GitHub README you can directly use for your Banking Domain Project.
-I’ve kept it simple, recruiter-friendly, and data-analyst focused, as per your preference.
-
 🏦 Banking Domain Data Analysis Project
 📌 Project Overview
 This project focuses on analyzing banking domain data to extract meaningful insights related to customer behavior, transactions, and financial performance.
